@@ -1,3 +1,7 @@
+#gui timer clock
+
+
+
 import tkinter as tk
 import math
 
